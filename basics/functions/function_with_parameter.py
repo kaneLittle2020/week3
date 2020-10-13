@@ -1,6 +1,6 @@
-#The function 
+
 def escape_by (): 
-  print("How should we escape? A - jumping over, B - running around or C- going deeper")
+  print("How should we escape? A - jumping over, B - running around or C - going deeper")
 
   response = input()
   if response == "A":
@@ -12,4 +12,4 @@ def escape_by ():
   else: 
     print ("make sure the option is captalised or is from the listed options A, B or C")
 
-escaped_by() 
+escape_by()
