@@ -37,3 +37,13 @@ def escape_by (plan):
     print ("make sure the option is captalised or is from the listed options A, B or C")
 
 escape_by()
+
+--------------------------
+def climb_ladder(steps_remaining, steps_crossed):
+  if (steps_remaining > steps_crossed):
+    print ("still some way to go")
+  else: 
+    print ("We are almost there")
+
+
+climb_ladder (3,4)
