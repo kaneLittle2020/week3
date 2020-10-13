@@ -1,4 +1,3 @@
-
 def escape_by (): 
   print("How should we escape? A - jumping over, B - running around or C - going deeper")
 

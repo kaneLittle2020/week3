@@ -6,7 +6,7 @@ def listen():
     sound = input() 
 
     # Display message
-    print("That was a loud", sound)
+    print("That was a loud {}", sound)
 
 
 # Call to function

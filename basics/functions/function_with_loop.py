@@ -1,3 +1,4 @@
+
 def cross_bridge (steps):
   for step in range (steps):
     print ("Crossed step.")
