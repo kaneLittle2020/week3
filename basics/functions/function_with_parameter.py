@@ -11,4 +11,3 @@ elif response == "C":
   print ("That might just work! Let's go deeper!")
 else: 
   print ("make sure the option is captalised or is from the listed options A, B or C")
-
